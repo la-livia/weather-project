@@ -1,0 +1,20 @@
+body {
+  padding: 30px;
+  background-color: #062c80;
+}
+
+.wrap {
+  max-width: 80%;
+  margin: 0px auto;
+  display: block;
+  padding: 30px;
+  background-color: #6b84bc;
+}
+
+.currentInfo {
+  margin: 50px 0;
+}
+
+p {
+  text-transform: capitalize;
+}
